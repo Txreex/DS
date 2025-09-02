@@ -1,0 +1,1 @@
+ else A[j*(j+1)/2 + i] = x; // mirror
